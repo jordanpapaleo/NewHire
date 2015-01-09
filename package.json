@@ -1,0 +1,18 @@
+{
+  "name": "NewHire",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "",
+    "start": "serve"
+  },
+  "author": "Jordan <papaleowebdev@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "bower": "~1.3.1",
+    "serve": "^1.4.0"
+  }
+}

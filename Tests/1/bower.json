@@ -1,0 +1,11 @@
+{
+  "name": "TestOne",
+  "version": "0.1.0.",
+  "authors": [
+    "Jordan Papaleo <papaleowebdev@gmail.com>"
+  ],
+  "license": "MIT",
+  "dependencies": {
+
+  }
+}
