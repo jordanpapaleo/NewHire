@@ -14,8 +14,8 @@ You can use npm start to serve the root directory of the app.
 **Requirements:** mock1.png and mock2.png  
 **Technologies:** Only use html, css, and less  
 **Libraries:** Bootstrap 3
-**ToDo**  
 
+**ToDo**  
 1. Create an index.html file.  
 2. Bring bootstrap into your project and you site.
 3. Semantically write the markup for mock1 and mock2.
