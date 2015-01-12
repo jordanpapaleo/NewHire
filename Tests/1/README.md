@@ -40,8 +40,15 @@ Notes: Clicking the create user button will reveal the create user form and clic
 **Libraries:** All previous   
 
 **ToDo**  
-1. Create some mock data in the form of JSON . 
-2. Consume that JSON file in your angular app to populate the users
-3. 
+1. Create some mock data in the form of JSON.  Create 5 users
+2. Consume that JSON file in your angular app to populate the users for your user table
 
 ## 4: Create a type ahead filter for the data in the table
+**Requirements:** mock3.png and markup from previous exercise  
+**Technologies:** All previous plus JSON  
+**Libraries:** All previous   
+
+**ToDo**  
+1. Use the 5 users now in your app and implement a quick type ahead filter for the app.
+2. Clicking the pencil icon should populatefor a user's information into user form.
+3. Creating a new user should add the user to your user list in app memory.  This does not need to write back to the JSON file and it is not expected to persist user changes in the app through a refresh
