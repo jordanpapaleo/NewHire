@@ -27,6 +27,7 @@ You can use npm start to serve the root directory of the app.
 **Technologies:** All previous plus JavaScript  
 **Libraries:** All previous plus Angular 1.2 and ui-router
 
+**ToDo**  
 1. Turn your markup into an angular application.
 2. Setup routing for the Users tab.  Do not worry about routes for the other tabs.  
 3. Create controllers, services, and directives as you see the need for them.
@@ -38,6 +39,7 @@ Notes: Clicking the create user button will reveal the create user form and clic
 **Technologies:** All previous plus JSON  
 **Libraries:** All previous   
 
+**ToDo**  
 1. Create some mock data in the form of JSON . 
 2. Consume that JSON file in your angular app to populate the users
 
