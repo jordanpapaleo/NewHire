@@ -40,5 +40,6 @@ Notes: Clicking the create user button will reveal the create user form and clic
 
 1. Create some mock data in the form of JSON . 
 2. Consume that JSON file in your angular app to populate the users
+3. 
 
 ## 4: Create a type ahead filter for the data in the table
